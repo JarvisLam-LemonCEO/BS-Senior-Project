@@ -4,6 +4,10 @@ Project advisor: Haonan Wang
 
 Team members: Jacob Culaton, Hei Lam, Brennan Tong, Andrew Truong
 
+## Presentation and Demp
+App Demo: https://youtube.com/shorts/pTrI8CmQhfU
+Presentation: https://youtu.be/-qsAyVJAZrw
+
 
 ## Instruction of running the project
 1. Download the project and open it on Android Studio
