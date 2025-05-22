@@ -1,4 +1,4 @@
-# CMPE 195B Senior Project U10: Optimizing an Intelligent Voice Assistant on Android Platform
+r# CMPE 195B Senior Project U10: Optimizing an Intelligent Voice Assistant on Android Platform
 
 Project advisor: Haonan Wang
 
@@ -6,6 +6,7 @@ Team members: Jacob Culaton, Hei Lam, Brennan Tong, Andrew Truong
 
 ## Presentation and Demp
 App Demo: https://youtube.com/shorts/pTrI8CmQhfU
+
 Presentation: https://youtu.be/-qsAyVJAZrw
 
 
